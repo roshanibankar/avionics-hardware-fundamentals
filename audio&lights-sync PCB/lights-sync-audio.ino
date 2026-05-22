@@ -1,6 +1,6 @@
 #define msg7RESET 9
 #define msg7Strobe 12
-#define msg7DCout A3 // Fixed to match your PCB wiring
+#define msg7DCout A3 
 
 int pwmPinG = 6;
 int pwmPinR = 5;
@@ -57,10 +57,9 @@ void loop(){
   if (Gval < cutoff) Gval = 0;
   if (Bval < cutoff) Bval = 0;
   
-  // Write final PWM brightness values to your MOSFETs
   analogWrite(pwmPinR, Rval);
   analogWrite(pwmPinG, Gval);
   analogWrite(pwmPinB, Bval);
   
-  delay(10); // Small delay to smooth out the rendering loop
+  delay(10); 
 }
