@@ -6,7 +6,6 @@ Real-world analog and digital electronics experiments focused on measurement, de
 
 # RC Filters
 
-- RC LED Fade Circuit  
 - Low-Pass Filter for Noisy Potentiometer  
 - High-Pass Audio Filter  
 - PWM Smoothing Experiment  
