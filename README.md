@@ -33,7 +33,7 @@ Real-world analog and digital electronics experiments focused on measurement, de
 - Accelerometer Smoothing Circuit  
 - Voltage Divider Scaling Experiment  
 - Analog Sensor Protection Circuit  
-- DinoRun4 — LDR Input System  
+- DinoRun4 with LDR Input System  
 - Lights Audio Sync  
 
 ---
