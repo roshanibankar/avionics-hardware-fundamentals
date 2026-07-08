@@ -1,4 +1,4 @@
-# The Art of Electronics Lab
+# Art of Electronics Lab
 
 Real-world analog and digital electronics experiments focused on measurement, debugging, signal analysis, PCB design, embedded systems and mixed-signal hardware development.
 
