@@ -1,6 +1,7 @@
 #define msg7RESET 9
 #define msg7Strobe 12
-#define msg7DCout A3 // Fixed to match your PCB wiring
+#define msg7DCout A3    
+//Fixed to match your PCB wiring
 
 int pwmPinG = 6;
 int pwmPinR = 5;
@@ -49,7 +50,7 @@ void loop(){
   // Map the 7 bands onto your 3 RGB channels
   int Gval = max(msgValues[0], msgValues[1]); // Bass / Low-mids
   int Bval = max(msgValues[2], msgValues[3]); // Mids / High-mids
-  int Rval = max(msgValues[4], msgValues[5]); // Highs / Treble
+  int Rval = max(msgValues[4], msgValues[5]); // Highs / Treble 
     
   // Noise filtering threshold
   int cutoff = max(30, sum / 5.0); 
