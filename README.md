@@ -110,4 +110,8 @@ Real-world analog and digital electronics experiments focused on measurement, de
 - KiCad Guide  
 - Altium Guide  
 - Fusion360 Guide  
+- Matlab Guide
+- Arduino Cheatsheet
+- Raspberry Pi Cheatsheet
+- FPGA Cheatsheet
 
