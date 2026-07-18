@@ -6,13 +6,13 @@ Reference: Art of Electronics: Student Manual co-authored by Thomas C. Hayes and
 * Bode plot characterization, low/high-pass filter validation, and passive RC networks.
 
 #### Active Signal Processing
-* Op-amp design, comparator networks, and Schmitt trigger hysteresis conditioning.
+* Op-amp design, comparator networks and Schmitt trigger hysteresis conditioning.
 
 #### Sensor Interfacing
 * **`Signal Conditioning/lights-audio-sync`**
 * **`audio&lights-sync PCB`**
 * **`dinorun4`**
-* Nonlinear transducer linearization, ESD input clamping, dynamic multi-channel load switching, and optical interrupt event routing.
+* Nonlinear transducer linearization, ESD input clamping, dynamic multi-channel load switching and optical interrupt event routing.
 
 #### Mixed-Signal Integrity
 * ADC resolution enhancement via oversampling, decimation, and ground-loop noise mitigation.
@@ -23,7 +23,7 @@ Reference: Art of Electronics: Student Manual co-authored by Thomas C. Hayes and
 #### Temporal Acquisition
 * **`depth`**
 * **`Timing and Measurement/Valentine's-heart-...`**
-* Microsecond-resolution input capture, hardware timers, deterministic clock generation, and ultrasonic Time-of-Flight (ToF) spatial propagation measurement.
+* Microsecond-resolution input capture, hardware timers, deterministic clock generation and ultrasonic Time-of-Flight (ToF) spatial propagation measurement.
 
 #### Power Electronics
 * **`Valentine's-heart-pcb`**
